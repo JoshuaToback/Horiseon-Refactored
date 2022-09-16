@@ -12,4 +12,4 @@
 
 # Example
 
-![This is what the site should look like!](./Develop/assets/images/Site-Image.png)
+![This is what the site should look like!](./assets/images/Site-Image.png)
