@@ -84,6 +84,8 @@ p {
 
 /* Content Styles */
 
+/* All three sections of the body have uniform style attributes.  */
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -102,6 +104,8 @@ p {
 }
 
 /* Sidebar  */
+
+/* Since the sidebar has a uniform style, all three sections were given the same class, as were the images and text inside.  */
 
 .benefits {
     margin-right: 20px;
